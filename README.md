@@ -1,7 +1,15 @@
 <center><h2>Hello World</h2></center>
 
-![Gif gato](![image](https://github.com/user-attachments/assets/6df05c68-923c-407d-8301-34e9cd831cc1)
-)
+⭐ Olá, me chamo Joseane Alves, quero ser programadora backend.
+💗 Sou técnica em analise e desenvolvimento de sistemas.
+📚 Estudo programação em python.
+📫 [Meu e-mail](jenyalves58@gmail.com)
+
+---------
+
+## Estudando
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
 
 
 
