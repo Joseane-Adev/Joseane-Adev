@@ -14,10 +14,10 @@
 -----
 | Cursos | Certificados |
 | ------ | ------------ |
-| Formação Python Fundamentals |  [Cerificado](https://hermes.dio.me/certificates/NLI0MAIB.pdf) |
+| Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/NLI0MAIB.pdf) |
 
 ---------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseane-Adev&show_icons=true&theme=dracula))
+![Joseane' GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseane-Adev&show_icons=true&theme=dracula))
 
 
 
