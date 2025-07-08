@@ -18,4 +18,4 @@ Formação Python Fundamentals - [Certificado](https://hermes.dio.me/certificate
 
 ![Joseane Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseane-Adev&show_icons=true&theme=dracula))
 
-
+![Joseane alves Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseane-Adev&layout=compact&lsngd_count=7&theme=dracula)
