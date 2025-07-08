@@ -2,16 +2,14 @@
 
 ⭐ Olá, me chamo Joseane Alves, quero ser programadora backend.
 💗 Sou técnica em analise e desenvolvimento de sistemas.
-📚 Estudo programação em python.
+📚 Estudando programação em python.
 📫 [Meu e-mail](jenyalves58@gmail.com)
 
 ---------
 
-## Estudando
+## Tecnologias
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-
-
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width ="100px">
 
 
 
