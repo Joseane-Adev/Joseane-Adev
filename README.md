@@ -8,16 +8,16 @@
 ---------
 
 ## Tecnologias
-
+<p align="center">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width ="100px">
-
+</p>
 -----
 | Cursos | Certificados |
 | ------ | ------------ |
 | Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/NLI0MAIB.pdf) |
 
 ---------
-![Joseane' GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseane-Adev&show_icons=true&theme=dracula))
+![Joseane Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseane-Adev&show_icons=true&theme=dracula))
 
 
 
