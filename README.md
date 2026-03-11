@@ -2,7 +2,7 @@
 
 ⭐ Olá, me chamo Joseane Alves, quero ser programadora backend.<br>
 💗 Sou técnica em analise e desenvolvimento de sistemas.<br>
-📚 Estudando programação em python.<br>
+📚 Estudando programação em python. Meu interesse é ser uma desenvolvedora python e foco em IA<br>
 📫 [Meu e-mail]()
 
 
