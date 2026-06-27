@@ -12,3 +12,5 @@
 
 📚Cursos e Certificados 
 Formação Python Fundamentals - [Certificado](https://hermes.dio.me/certificates/NLI0MAIB.pdf)
+
+Pensamento Computacional - https://cursos.alura.com.br/certificate/jenyalves58/computacao-fundamentos-computacao-pensamento-computacional
