@@ -1,9 +1,36 @@
 <center><h2>Hello World</h2></center>
 
-⭐ Olá, me chamo Joseane Alves, quero ser programadora backend.<br>
-💗 Sou técnica em analise e desenvolvimento de sistemas.<br>
-📚 Estudando programação em python. Meu interesse é ser uma desenvolvedora python e foco em IA<br>
-📫 [Meu e-mail]()
+# 👋 Olá, eu sou Ane Alves
+
+💻 Desenvolvedora backend com foco em **Python** e **Django**  
+🚀 Apaixonado por construir aplicações web escaláveis e seguras  
+📚 Atualmente explorando APIs Django REST 
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python  
+- **Frameworks:** Django, Django REST Framework 
+- **Banco de Dados:** MySQL 
+- **Ferramentas:** Git, VSCode  
+
+---
+
+## 📌 Projetos em Destaque
+- [Sistema de Gestão Escolar](https://github.com/seuusuario/blog-django) → CRUD em andamento  
+
+---
+
+## 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/joseane-adev/)   
+- 📧 Email: joseanealves3021@gmail.com
+
 
 ## Tecnologias
 <p align="center">
@@ -12,4 +39,6 @@
 
 📚Cursos e Certificados 
 Formação Python Fundamentals - [Certificado](https://hermes.dio.me/certificates/NLI0MAIB.pdf)
+Pensamento computacional - https://cursos.alura.com.br/user/jenyalves58/course/computacao-fundamentos-computacao-pensamento-computacional/certificate
+Django - https://cursos.alura.com.br/user/jenyalves58/degree-django-510527/certificate
 
