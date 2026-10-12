@@ -17,7 +17,9 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Gestão Escolar](https://github.com/seuusuario/blog-django) → CRUD em andamento  
+- [Sistema de Gestão Escolar](https://github.com/seuusuario/blog-django) → CRUD em andamento
+- [Lista de tarefas]()
+- [Lista de tarefas](https://github.com/Joseane-Adev/listaTarefas) -> estudo de programação  
 
 ---
 
